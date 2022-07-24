@@ -1,3 +1,3 @@
-![website](https://img.shields.io/badge/Raja--kumar-website-blue)
+![website](https://raja-kumar-website.netlify.app/)
 
 ![Image](./thumbnail.png)
