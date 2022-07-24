@@ -1,3 +1,3 @@
-![website](https://raja-kumar-website.netlify.app/)
+[website](https://raja-kumar-website.netlify.app/)
 
 ![Image](./thumbnail.png)
